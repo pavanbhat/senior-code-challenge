@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="senior-code-challenge_main" target="1.10" />
+      <module name="senior-code-challenge_test" target="1.10" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="senior-code-challenge_main" options="--add-modules=java.xml.ws.annotation" />
+    </option>
+  </component>
+</project>
